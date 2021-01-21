@@ -1,3 +1,3 @@
 # hello-world
-practice
-i will be a software engineer
+
+I will be a software engineer
